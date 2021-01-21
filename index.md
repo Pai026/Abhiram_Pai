@@ -24,8 +24,7 @@
             "Pai026/weatherapp-xamarin",
             "Pai026/tasks-manager-fe",
             "Pai026/tasks-manager-be"
-        ],
-        "devToUserId": "pai026"
+        ]
     }
 </script>
 <div id="root"></div>
